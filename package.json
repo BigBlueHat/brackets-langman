@@ -1,0 +1,12 @@
+{
+    "name": "bigbluehat.langman",
+    "title": "LangMan",
+    "description": "File extension/type to Language mapping/manager/thing.",
+    "homepage": "https://github.com/bigbluehat/brackets-langman",
+    "version": "0.0.1",
+    "author": "BigBlueHat <byoung@bigbluehat.com> (http://bigbluehat.com/)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
